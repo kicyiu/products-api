@@ -4,7 +4,7 @@
 Este es un API desarrollado en Nodejs con framework Express que se conecta a una  base de dato de productos
 hecho en MongoDB
 
-### Instlación
+### Instalación
 
 Ejecutar los siguientes comandos para desplegar el contedor del proyecto
 ```sh

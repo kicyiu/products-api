@@ -11,6 +11,8 @@ Ejecutar los siguientes comandos para desplegar el contedor del proyecto
 $ make build
 $ make run
 ```
+La aplicación iciará por defecto en el puerto 8080
+
 
 Ejecutar el siguiente comando para alimentar la base de dato con datos de prueba
 ```sh
